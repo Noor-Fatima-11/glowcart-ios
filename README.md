@@ -6,6 +6,10 @@ It focuses on clean aesthetics, intuitive navigation, and a seamless user journe
 🚀 Live Prototype
 
 https://www.figma.com/proto/jAhlQdJk7bLhrYyeVhxhRz/Untitled?node-id=1-2&p=f&t=a4jqC7JQbv3lqiW3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+
+🚀  live preview 
+<img width="684" height="481" alt="Screenshot 2026-04-24 171125" src="https://github.com/user-attachments/assets/6efdbb1b-01d0-4632-9335-8f9c29d9a4e4" />
+
  
  ✨ Overview
 
